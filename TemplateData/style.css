@@ -52,17 +52,21 @@ body {
     text-align: left;
     border: 1px solid white;
     padding: 2px;
+    border-radius: 20px;
 }
 #unity-progress-bar-full {
     width: 0%;
     height: 100%;
     background: white;
+    border-radius: 20px;
 }
 .light #unity-progress-bar-empty {
     border-color: black;
+    border-radius: 20px;
 }
 .light #unity-progress-bar-full {
     background: black;
+    border-radius: 20px;
 }
 
 #unity-fullscreen-button {
